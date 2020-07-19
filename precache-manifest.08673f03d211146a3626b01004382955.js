@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ecfe42236df965fe0c0363a5d2fbd934",
+    "revision": "e8c777ddfebd69451e7cfb2a8ed23ffc",
     "url": "/react-footer/index.html"
   },
   {
-    "revision": "7b5e9e384f937a59b8bf",
-    "url": "/react-footer/static/css/main.61d64c89.chunk.css"
+    "revision": "664338af6c3634fd3b20",
+    "url": "/react-footer/static/css/main.a473b75b.chunk.css"
   },
   {
     "revision": "f6be0233b2cdb052aece",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-footer/static/js/2.174310db.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7b5e9e384f937a59b8bf",
-    "url": "/react-footer/static/js/main.2c3189d7.chunk.js"
+    "revision": "664338af6c3634fd3b20",
+    "url": "/react-footer/static/js/main.371cf263.chunk.js"
   },
   {
     "revision": "9b51285cad5ccb601711",
