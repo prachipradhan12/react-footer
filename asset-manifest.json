@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-footer/static/css/main.8a844176.chunk.css",
+    "main.css": "/react-footer/static/css/main.61d64c89.chunk.css",
     "main.js": "/react-footer/static/js/main.053b43e9.chunk.js",
     "main.js.map": "/react-footer/static/js/main.053b43e9.chunk.js.map",
     "runtime-main.js": "/react-footer/static/js/runtime-main.588a55ef.js",
@@ -8,9 +8,9 @@
     "static/js/2.174310db.chunk.js": "/react-footer/static/js/2.174310db.chunk.js",
     "static/js/2.174310db.chunk.js.map": "/react-footer/static/js/2.174310db.chunk.js.map",
     "index.html": "/react-footer/index.html",
-    "precache-manifest.f89d886f633500d1df45ce88470668c3.js": "/react-footer/precache-manifest.f89d886f633500d1df45ce88470668c3.js",
+    "precache-manifest.363506e27fdb64d2c109bf2b092769fc.js": "/react-footer/precache-manifest.363506e27fdb64d2c109bf2b092769fc.js",
     "service-worker.js": "/react-footer/service-worker.js",
-    "static/css/main.8a844176.chunk.css.map": "/react-footer/static/css/main.8a844176.chunk.css.map",
+    "static/css/main.61d64c89.chunk.css.map": "/react-footer/static/css/main.61d64c89.chunk.css.map",
     "static/js/2.174310db.chunk.js.LICENSE.txt": "/react-footer/static/js/2.174310db.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/react-footer/static/media/logo.5d5d9eef.svg",
     "static/media/three-wooden-signage-in-a-tree-close-up-photography-2562560.jpg": "/react-footer/static/media/three-wooden-signage-in-a-tree-close-up-photography-2562560.adba9865.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.588a55ef.js",
     "static/js/2.174310db.chunk.js",
-    "static/css/main.8a844176.chunk.css",
+    "static/css/main.61d64c89.chunk.css",
     "static/js/main.053b43e9.chunk.js"
   ]
 }
