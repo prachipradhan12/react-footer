@@ -4,7 +4,7 @@
     
 }
 body {
-  background-color: rgb(15, 15, 15);
+  /* background-color: rgb(15, 15, 15); */
   color: white;
   font-family: Arial;
   text-align: center;
@@ -124,6 +124,9 @@ width: 50%;
 
 
 }
+.row{
+  background-color: black;
+}
 
 /* .contactcontainer{
     float: right;
@@ -131,11 +134,11 @@ width: 50%;
     font-weight: bold;
     padding-left: 120px;
 } */
-.container
+/* .container
 {
   text-align: center;
   padding: 15px;  
-}
+} */
 
 /* .box{
   height: auto;
