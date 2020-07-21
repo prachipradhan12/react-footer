@@ -12,15 +12,15 @@ class App extends Component{
 
       // <footer className="footer">
                <div className="row">
-        <div className="column"> 
+        <div className="col-sm-6"> 
 {/* <div className="left-div left-text"> */}
 <img src={leftpic} alt="Logo" className="responsive" />
 </div>
 {/* <div className="right-div right-text"> */}
-<div className="column"> 
-      <div className={styles.contactcontainer}>
+<div className="col-sm-6" > 
+      {/* <div className={styles.contactcontainer}> */}
       {/* <div className="App"> */}
-        
+      
            <p>Contact Us</p>
 <SocialFollow />
       <div>
@@ -46,7 +46,7 @@ class App extends Component{
       </div>
       </div>
       </div>
-      </div>
+      // </div>
 
  
  
