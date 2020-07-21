@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "64b8f42090bda6749f8f738ec7348c41",
+    "revision": "49a5dd7efe7dfe8491d5511e89fd6464",
     "url": "/react-footer/index.html"
   },
   {
-    "revision": "3d6b8395fdc22cd4cb50",
-    "url": "/react-footer/static/css/main.5e1d5650.chunk.css"
+    "revision": "869877023682c4b68991",
+    "url": "/react-footer/static/css/main.32c942e5.chunk.css"
   },
   {
-    "revision": "25fdaf90f28029282215",
-    "url": "/react-footer/static/js/2.981ad995.chunk.js"
+    "revision": "a705f93c2af1f038fa3a",
+    "url": "/react-footer/static/js/2.dc616385.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/react-footer/static/js/2.981ad995.chunk.js.LICENSE.txt"
+    "url": "/react-footer/static/js/2.dc616385.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3d6b8395fdc22cd4cb50",
-    "url": "/react-footer/static/js/main.ffdd8e81.chunk.js"
+    "revision": "869877023682c4b68991",
+    "url": "/react-footer/static/js/main.c8ca99d1.chunk.js"
   },
   {
     "revision": "9b51285cad5ccb601711",
