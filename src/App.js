@@ -41,6 +41,8 @@ class App extends Component{
       <label>Subject</label>
       <textarea id="subject" type="textarea" name="subject" placeholder="Write something.."></textarea>
       <center><input type="submit" value="Submit" /></center>
+      <p> &copy; 2020 by Youth India Foundation. </p>
+
       </form>
       </div>
       </div>
@@ -51,7 +53,6 @@ class App extends Component{
  
  </div>
   
- <p> &copy; 2020 by Youth India Foundation. </p>
  
       </footer>
  </div>
