@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-footer/static/css/main.a473b75b.chunk.css",
-    "main.js": "/react-footer/static/js/main.371cf263.chunk.js",
-    "main.js.map": "/react-footer/static/js/main.371cf263.chunk.js.map",
+    "main.css": "/react-footer/static/css/main.a27cddac.chunk.css",
+    "main.js": "/react-footer/static/js/main.48a5a7d3.chunk.js",
+    "main.js.map": "/react-footer/static/js/main.48a5a7d3.chunk.js.map",
     "runtime-main.js": "/react-footer/static/js/runtime-main.588a55ef.js",
     "runtime-main.js.map": "/react-footer/static/js/runtime-main.588a55ef.js.map",
     "static/js/2.174310db.chunk.js": "/react-footer/static/js/2.174310db.chunk.js",
     "static/js/2.174310db.chunk.js.map": "/react-footer/static/js/2.174310db.chunk.js.map",
     "index.html": "/react-footer/index.html",
-    "precache-manifest.08673f03d211146a3626b01004382955.js": "/react-footer/precache-manifest.08673f03d211146a3626b01004382955.js",
+    "precache-manifest.ad658ab7054625739b1cf7c7725364cc.js": "/react-footer/precache-manifest.ad658ab7054625739b1cf7c7725364cc.js",
     "service-worker.js": "/react-footer/service-worker.js",
-    "static/css/main.a473b75b.chunk.css.map": "/react-footer/static/css/main.a473b75b.chunk.css.map",
+    "static/css/main.a27cddac.chunk.css.map": "/react-footer/static/css/main.a27cddac.chunk.css.map",
     "static/js/2.174310db.chunk.js.LICENSE.txt": "/react-footer/static/js/2.174310db.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/react-footer/static/media/logo.5d5d9eef.svg",
     "static/media/three-wooden-signage-in-a-tree-close-up-photography-2562560.jpg": "/react-footer/static/media/three-wooden-signage-in-a-tree-close-up-photography-2562560.adba9865.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.588a55ef.js",
     "static/js/2.174310db.chunk.js",
-    "static/css/main.a473b75b.chunk.css",
-    "static/js/main.371cf263.chunk.js"
+    "static/css/main.a27cddac.chunk.css",
+    "static/js/main.48a5a7d3.chunk.js"
   ]
 }
