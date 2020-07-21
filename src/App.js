@@ -10,8 +10,7 @@ class App extends Component{
   render() {
     return (
 
-<div className="box">
-      <footer className="footer">
+      // <footer className="footer">
                <div className="row">
         <div className="column"> 
 {/* <div className="left-div left-text"> */}
@@ -47,15 +46,15 @@ class App extends Component{
       </div>
       </div>
       </div>
-      {/* </div> */}
+      </div>
 
  
  
- </div>
+ /* </div> */
   
  
-      </footer>
- </div>
+      // </footer>
+ 
       
          );
   }

@@ -6,7 +6,6 @@
 body {
   background-color: rgb(15, 15, 15);
   color: white;
-  padding: 40px;
   font-family: Arial;
   text-align: center;
 }
@@ -40,12 +39,14 @@ body {
     color: white;
     font-weight: 200;
     height: auto;
+    padding: 0px;
+    margin: 0px;
   }
-
+/* 
   .responsive {
     max-width: 100%;
     height: auto;
-  }
+  } */
 p {
      text-align: center;
      font-style: normal;
@@ -87,7 +88,6 @@ label{
      font-family: Verdana;
 }
 
-
 .column {
   
   /* width: 500px; */
@@ -120,10 +120,7 @@ width: 50%;
     width: 100%;
     
       }
-    .row{
-      margin: 0px;
-      padding: 0px;
-    }
+    
 
 
 }
