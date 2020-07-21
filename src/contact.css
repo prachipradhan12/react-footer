@@ -98,7 +98,7 @@ width: 50%;
   
 
   /* background-color: #ddd; */
-  border-radius: 3px;
+  /* border-radius: 3px; */
   /* margin: 15px; */
   padding: 10px;
   height: auto; /* Should be removed. Only for demonstration */
@@ -115,10 +115,12 @@ width: 50%;
 
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
-  .column {
+  .column  {
     width: 100%;
-    position: relative;
-  }
+    margin: 0px;
+    padding: 0px;
+      }
+
 }
 
 /* .contactcontainer{
