@@ -4,23 +4,17 @@ import leftpic from './three-wooden-signage-in-a-tree-close-up-photography-25625
 import contact from './contact'
 import SocialFollow from './SocialFollow';
 // import './App.css';
-import styles from './contact.css';
 
 class App extends Component{
   render() {
     return (
 
-      // <footer className="footer">
       <div className="container-fluid">
                <div className="row">
         <div className="col-sm-6"> 
-{/* <div className="left-div left-text"> */}
 <img src={leftpic} alt="Logo" className="responsive" />
 </div>
-{/* <div className="right-div right-text"> */}
 <div className="col-sm-6" > 
-      {/* <div className={styles.contactcontainer}> */}
-      {/* <div className="App"> */}
       
            <p>Contact Us</p>
 <SocialFollow />

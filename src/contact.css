@@ -1,5 +1,4 @@
 * {
-  /* background-color: black; */
     box-sizing: border-box;
     
 }
@@ -10,23 +9,7 @@ body {
   text-align: center;
 }
 
- .App {
-     /* max-width: 420px; */
-     /* max-width: 500px; */
-     /* margin: 0 auto; */
-     padding: 10px;
-     /* float:right; */
-     
-}
-.content {
-    flex: 1 0 auto;
-    padding: 10px;
-  }
-  .grid-container {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 20px;
-}
+
 #root {
     display: flex;
     flex-direction: column;
@@ -88,64 +71,6 @@ label{
      font-weight: bold;
      font-family: Verdana;
 }
-
-.column {
-  
-  /* width: 500px; */
-  display: inline-block;
-  /* max-width: 600px; */
-width: 50%; 
-  text-align: left;
-  
-
-  /* background-color: #ddd; */
-  /* border-radius: 3px; */
-  /* margin: 15px; */
-  padding: 10px;
-  height: auto; /* Should be removed. Only for demonstration */
-}
-
-/* Clear floats after the columns */
-
-/* .row:after {
-  content: "";
-  display: table;
-  
-  
-  clear: both;
-} */
-
-
-/* .contactcontainer{
-    float: right;
-    font-family: Verdana;
-    font-weight: bold;
-    padding-left: 120px;
-} */
-/* .container
-{
-  text-align: center;
-  padding: 15px;  
-} */
-
-/* .box{
-  height: auto;
-  border-radius: 2px;
-  border:solid;
-  padding:10px;
-} */
-/* .left-div
-{
-  display: inline-block;
-  max-width: 600px;
- 
-  text-align: left;
-  padding: 10px;
-  /* background-color: #ddd; */
-  /* border-radius: 3px;
-  margin: 15px;
-  vertical-align: top;
-} */ 
 .responsive {
     width: 100%;
     /* padding:0px; */
@@ -154,37 +79,6 @@ width: 50%;
   border-radius: 5px;
   padding:30px;
   }
-/* .right-div
-{
-  display: inline-block;
-  max-width: 600px;
-  text-align: left;
-  padding: 15px;
-  background-color: #ddd;
-  border-radius: 3px;
-  border: solid;
-  margin: 15px;
-} */
-/* .left-text, .right-text
-{
-  font: 14px Verdana;
-	color: #333;
-}
-@media screen and (max-width: 700px) 
-{
-  .left-div, .right-div, .box
-    {
-       max-width: 100%;
-       padding-right: 20px;
-       padding-right: 20px;
-    }
-} */
- /* .container {
-     border-radius: 5px;
-     background-color: #f2f2f2;
-     padding: 20px;
-     float: right;
-} */
 .social-container {
     /* background: #eee; */
     font-family: Verdana;
