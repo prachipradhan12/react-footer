@@ -11,7 +11,7 @@ class App extends Component{
     return (
 
       // <footer className="footer">
-      
+      <div className="container-fluid">
                <div className="row">
         <div className="col-sm-6"> 
 {/* <div className="left-div left-text"> */}
@@ -53,7 +53,7 @@ class App extends Component{
  
   
  
-      // </footer>
+       </div>
  
       
          );
